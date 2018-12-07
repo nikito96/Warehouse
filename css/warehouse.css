@@ -1,0 +1,43 @@
+body {
+  background-color: #b35900;
+}
+table, th, td {
+   border: 1px solid black;
+   margin: auto;
+   background-color: #804000;
+   color: #ffff66;
+}
+a, button {
+  text-decoration: none;
+  color: #ffff66;
+  background-color: #804000;
+  border: 1px solid #1a0d00;
+  padding: 5px;
+  margin: 2px;
+  display: inline-table;
+}
+#newProduct {
+  float: left;
+}
+#logout {
+  float: right;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
+label {
+  color: #ffff66;
+}
+input, select {
+  text-decoration: none;
+  color: #ffff66;
+  background-color: #804000;
+  border: 1px solid #1a0d00;
+  padding: 5px;
+  margin: 2px;
+}
+h1 {
+  color: #ffff66;
+  text-align: center;
+}

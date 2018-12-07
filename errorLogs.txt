@@ -1,0 +1,8 @@
+﻿Date: 16:15:22 29.11.2018 г.
+File: C:\xampp\htdocs\warehouse\login.php
+Line: 11
+Error message: SQLSTATE[HY000] [2002] No connection could be made because the target machine actively refused it.
+
+Stack trace: #0 C:\xampp\htdocs\warehouse\login.php(11): PDO->__construct('mysql:host=loca...', 'root', '')
+#1 {main}
+
